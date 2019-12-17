@@ -10,3 +10,5 @@ This project is a full-stack Machine Learning and web scraping endeavor to retri
 ## Conclusions:
 
 
+![image](https://user-images.githubusercontent.com/51388767/71025295-bf212f00-20d4-11ea-97ea-96630dc9d513.png)
+
