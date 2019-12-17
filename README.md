@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis Proof of Concept
+# Twitter Sentiment Analysis Machine Learning Proof of Concept
 
 ## Project Description:
 
