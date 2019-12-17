@@ -7,4 +7,6 @@ This project is a full-stack Machine Learning and web scraping endeavor to retri
 
 ## Data:
 
-## 
+## Conclusions:
+
+
