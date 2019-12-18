@@ -15,7 +15,7 @@ Both Logistic Regression and the Long-Short Term Deep Neural Network (LSTM) Mach
 
 Logistic Regression was selected over LSTM to power the website because the model is less complex, but achieves nearly the similar result. 
 
-![image](https://user-images.githubusercontent.com/51388767/71110734-dd9b2f00-2195-11ea-899e-6a562e7c8f92.png)
+![image](https://user-images.githubusercontent.com/51388767/71110890-2bb03280-2196-11ea-80b5-c8ea8135e0e1.png)
 
 
 
