@@ -14,7 +14,8 @@ The data came from https://www.kaggle.com/c/twitter-sentiment-analysis2/data. Th
 Both Logistic Regression and the Long-Short Term Deep Neural Network (LSTM) Machine Learning Models outperformed Natural Language Processing (NLP) with Naive Bayes on key confusion matrix KPI's including Accuracy, Precision, Recall, and F1 Score.
 
 Logistic Regression was selected over LSTM to power the website because the model is less complex, but achieves nearly the similar result. 
-![image](https://user-images.githubusercontent.com/51388767/71110333-1555a700-2195-11ea-9537-303bc1ce4be4.png)
+
+![image](https://user-images.githubusercontent.com/51388767/71110734-dd9b2f00-2195-11ea-899e-6a562e7c8f92.png)
 
 
 
