@@ -5,10 +5,10 @@ This project is a full-stack Machine Learning and web scraping proof of concept 
 
 ![image](https://user-images.githubusercontent.com/51388767/71027386-2b9e2d00-20d9-11ea-953d-2b9f9a63067d.png)
 
-
-
 ## Data:
 The data came from https://www.kaggle.com/c/twitter-sentiment-analysis2/data. The Machine Learning models were developed in Jupyter Notebook using the notable Python libraries above.  
+
+![image](https://user-images.githubusercontent.com/51388767/71196857-5239a080-225e-11ea-82cf-2b082efe655b.png)
 
 ## Conclusions:
 Both Logistic Regression and the Long-Short Term Deep Neural Network (LSTM) Machine Learning Models outperformed Natural Language Processing (NLP) with Naive Bayes on key confusion matrix KPI's including Accuracy, Precision, Recall, and F1 Score.
