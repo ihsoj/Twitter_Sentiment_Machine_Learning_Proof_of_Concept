@@ -5,7 +5,7 @@ This project is a Machine Learning and web scraping proof of concept to retrieve
 
 ![image](https://user-images.githubusercontent.com/51388767/71027386-2b9e2d00-20d9-11ea-953d-2b9f9a63067d.png)
 
-![image](https://user-images.githubusercontent.com/51388767/72008726-7ca9c880-3222-11ea-843c-988eaaefbbd8.png)
+![image](https://user-images.githubusercontent.com/51388767/72008915-d14d4380-3222-11ea-8a2c-90d8635cf9fb.png)
 
 ## Data:
 The data came from https://www.kaggle.com/c/twitter-sentiment-analysis2/data. The Machine Learning models were developed in Jupyter Notebook using the notable Python libraries above.  
